@@ -9,6 +9,11 @@ virtualenv env --python=python3 && source env/bin/activate
 pip3 install -r requirements.txt
 ```
 
+# Instalar el controlador ODBC de Microsoft para SQL Server (Linux)
+
+https://docs.microsoft.com/en-us/sql/connect/odbc/linux-mac/installing-the-microsoft-odbc-driver-for-sql-server?view=sql-server-ver15
+
+
 ## Ejecución:
 ```
 source env/bin/activate
